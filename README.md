@@ -1,2 +1,2 @@
 # Verificador-de-CPF
-Programa em Python 3 que verifica se um CPF é válido ou não
+Programas em Python 3 que verificam e geram um CPF
